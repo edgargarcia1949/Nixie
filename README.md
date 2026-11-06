@@ -20,8 +20,11 @@ You do not need to install Python to use this application! You can download pre-
 
 - 🪟 **Windows**: Download `NixieWindows.zip`
 - 🐧 **Linux**: Download `NixieLinux.zip` or the standalone `NixieAppImage.zip`
-- 🍏 **macOS (Intel)**: Download `NixieMac.zip`
-- 
+- 🍏 **macOS (Intel)**: Download `NixieMac.zip` 
+
+In Windows after unzipping the NixieWindows.zip file, double-click on the application file 
+called nixie and Windows will tell you my app is malicious so click on MoreInfo and RunAnyway 
+
 My experience with the macOS version was that I had to go into the terminal and navigate to
 the folder called NixieMac where my NixieMac.zip was downloaded to and run
 `chmod u+x nixie.app/Contents/MacOS/nixie`
