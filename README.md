@@ -23,9 +23,12 @@ You do not need to install Python to use this application! You can download pre-
 - 🍏 **macOS (Intel)**: Download `NixieMac.zip`
 - 
 My experience with the macOS version was that I had to go into the terminal and navigate to
-the folder where NixieMac.zip was downloaded and run chmod u+x your_folder/Contents/MacOS/nixie
-to run the app.  For example:  chmod u+x Downloads/Contents/MacOS/nixie
-if in the Downloads folder.
+the folder called NixieMac where my NixieMac.zip was downloaded to and run
+`chmod u+x nixie.app/Contents/MacOS/nixie`
+This allowed me to control-click on Nixie application and Open which shows "Apple cannot check
+it for malicious software" then you click "Show in Finder" and control-click on the Nixie app
+icon  where you can open the app.
+  
 
 *Note: Each release package includes its own `readme.txt` with specific help instructions.*
 
