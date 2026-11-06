@@ -21,6 +21,11 @@ You do not need to install Python to use this application! You can download pre-
 - 🪟 **Windows**: Download `NixieWindows.zip`
 - 🐧 **Linux**: Download `NixieLinux.zip` or the standalone `NixieAppImage.zip`
 - 🍏 **macOS (Intel)**: Download `NixieMac.zip`
+- 
+My experience with the macOS version was that I had to go into the terminal and navigate to
+the folder where NixieMac.zip was downloaded and run chmod u+x your_folder/Contents/MacOS/nixie
+to run the app.  For example:  chmod u+x Downloads/Contents/MacOS/nixie
+if in the Downloads folder.
 
 *Note: Each release package includes its own `readme.txt` with specific help instructions.*
 
