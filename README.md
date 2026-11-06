@@ -26,8 +26,8 @@ My experience with the macOS version was that I had to go into the terminal and 
 the folder called NixieMac where my NixieMac.zip was downloaded to and run
 `chmod u+x nixie.app/Contents/MacOS/nixie`
 This allowed me to control-click on Nixie application and Open which shows "Apple cannot check
-it for malicious software" then you click "Show in Finder" and control-click on the Nixie app
-icon  where you can open the app.
+it for malicious software" then you click "Show in Finder" and control-click on the Nixie application 
+where you can open the app.
   
 
 *Note: Each release package includes its own `readme.txt` with specific help instructions.*
